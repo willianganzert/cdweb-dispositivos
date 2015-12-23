@@ -3,13 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.dispositivoscdweb.configuracoes;
+package br.com.cdweb.dispositivos.configuracoes;
 
-import br.com.dispositivoscdweb.processos.RegistraDispositivo;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.ScheduledFuture;
 import java.util.concurrent.TimeUnit;
+
+import br.com.cdweb.dispositivos.processos.RegistraDispositivo;
 
 /**
  *

@@ -3,14 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.dispositivoscdweb.processos;
+package br.com.cdweb.dispositivos.processos;
 
-import br.com.dispositivoscdweb.configuracoes.Configuracoes;
-import br.com.dispositivoscdweb.configuracoes.DispositivosCDWEB;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+
+import br.com.cdweb.dispositivos.configuracoes.Configuracoes;
+import br.com.cdweb.dispositivos.configuracoes.DispositivosCDWEB;
 
 /**
  *

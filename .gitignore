@@ -1,1 +1,4 @@
-/nbproject/private/
+/target/*
+/.settings/
+/*.sh
+/target/
